@@ -1,0 +1,10 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Calgary Law and Justice" # the name of your site, e.g. ACME Corp.
+# Build Settings
+include: ["_pages"]
+collections:
+  team_members:
+    people: true
+    output: true
+excerpt_separator: <!--more-->

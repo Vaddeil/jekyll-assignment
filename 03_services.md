@@ -1,0 +1,86 @@
+---
+layout: default
+title: Services
+permalink: /services/
+---
+
+<h2>LITIGATION</h2>
+
+<p>We understand that many business issues impact the way litigation must be conducted and we adapt the legal strategy to match your goals. We recognize that many clients wish to avoid trial and our team of experienced litigators will work with you, using alternative dispute resolution methods and other appropriate innovative measures, to develop a strategy that best meets your business objectives and will result in practical solutions to complicated problems.
+
+It is not always possible to conclude litigious matters amicably. We have extensive experience pursuing matters through trial and have established a reputation for aggressively and thoroughly pursuing our clients' interests at every level of Canada's judicial system when necessary, all the way to the Supreme Court of Canada.
+
+Our extensive use of paralegals, litigation support, e-discovery and document imaging technology enables us to provide cost-effective service to our clients on disputes of all sizes.
+
+Our lawyers have extensive experience prosecuting and defending litigation in all areas, including:</p>
+
+<ul>
+  <li>Builders liens</li>
+  <li>Contracts</li>
+  <li>Constitutional law</li>
+  <li>Construction</li>
+  <li>Employment law</li>
+  <li>Environmental matters</li>
+  <li>Fire and property losses</li>
+  <li>Joint operating disputes</li>
+  <li>Occupiers' liability</li>
+  <li>Oil and gas law</li>
+  <li>Personal injuries</li>
+  <li>Professional negligence</li>
+  <li>Regulatory proceedings and appeals</li>
+</ul>
+
+<h2>INSURANCE</h2>
+
+<p>The lawyers in our Insurance & Risk Management Practice Group are an experienced team of lawyers who represent major Canadian and international insurers, brokers, syndicates, adjusters, corporations, individuals and self-insuring organizations.
+
+Over the years, our firm has developed a top-notch team of lawyers and skilled litigation support staff who truly understand the legal and business needs of our clients, both institutional insurers and self-insured corporations. They have a well-earned reputation for aggressively and thoroughly pursuing your interests at every level of the Canadian judicial system and through a variety of alternative dispute resolution approaches.
+
+We recognize you may see trial as an absolute last resort and where possible we use innovative, alternative dispute resolution methods such as judicial dispute resolution, private mediation and pre-trial settlement conferences to reach a timely and cost-effective solution.
+
+In addition, we have vast experience in assisting with the development and operation of programs for self-insured organizations.
+
+We have a solid appreciation of the expectations and requirements of insurers, in relation to standardized, timely reporting and accurate assessment of exposure. We focus on helping you solve your legal problems quickly and economically, while always ensuring a high level of client service.
+
+We offer services in:</p>
+
+<ul>
+  <li>Auto Liability</li>
+  <li>Aviation</li>
+  <li>Bad Faith Litigation</li>
+  <li>Business Interruption</li>
+  <li>Casualty</li>
+  <li>Comprehensive Liability</li>
+  <li>Construction</li>
+  <li>Directors and Officers Liability</li>
+  <li>Disability</li>
+  <li>Employment Liability</li>
+  <li>Environmental Liability</li>
+  <li>Errors & Omissions</li>
+  <li>Fidelity and Surety</li>
+  <li>Home Owners Insurance</li>
+  <li>Licensing</li>
+  <li>Life, Accident and Sickness Insurance</li>
+  <li>Malpractice</li>
+  <li>Oil and Gas</li>
+  <li>Products Liability</li>
+  <li>Professional Liability and Malpractice</li>
+  <li>Property Losses</li>
+  <li>Reinsurance</li>
+</ul>
+
+<h2>CONSTRUCTION</h2>
+
+<p>Practical advice, from planning to completion.
+
+Our clients include owners, developers, contractors and subcontractors. Whether it's a residential, commercial or industrial project, our team is dedicated to helping you keep it on budget and on schedule. Our approach is to limit or avoid disputes by focusing on contract negotiations and dispute resolution mechanisms, and by advising on rights and obligations throughout the construction process. Where disputes are unavoidable, we help you achieve the best possible outcome through mediation and litigation.</p>
+
+<ul>
+  <li>Builders' liens</li>
+  <li>Delay and extra work issues</li>
+  <li>Construction defects and faulty products</li>
+  <li>Changes in scope of work</li>
+  <li>Performance Bonds</li>
+  <li>Real estate and development contracts</li>
+  <li>Negligence and performance issues</li>
+</ul>
